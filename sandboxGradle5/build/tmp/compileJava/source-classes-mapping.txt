@@ -1,2 +1,8 @@
-MyFirstProgram1.java
- MyFirstProgram1
+com/sandboxProject/Square.java
+ com.sandboxProject.Square
+com/sandboxProject/Rectangle.java
+ com.sandboxProject.Rectangle
+com/sandboxProject/MyFirstProgram.java
+ com.sandboxProject.MyFirstProgram
+com/sandboxProject/Point.java
+ com.sandboxProject.Point

@@ -1,0 +1,2 @@
+com/sandboxProject/SquareTests.java
+ com.sandboxProject.SquareTests
